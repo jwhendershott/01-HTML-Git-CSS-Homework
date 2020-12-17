@@ -1,4 +1,4 @@
-# Assignemnt 1 - Code Refactor
+# Assignment 1 - Code Refactor
 
 ## Description
 
